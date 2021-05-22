@@ -1,0 +1,13 @@
+C:\Users\Usuario\source\repos\Case\bin\Debug\netcoreapp3.1\Case.exe
+C:\Users\Usuario\source\repos\Case\bin\Debug\netcoreapp3.1\Case.deps.json
+C:\Users\Usuario\source\repos\Case\bin\Debug\netcoreapp3.1\Case.runtimeconfig.json
+C:\Users\Usuario\source\repos\Case\bin\Debug\netcoreapp3.1\Case.runtimeconfig.dev.json
+C:\Users\Usuario\source\repos\Case\bin\Debug\netcoreapp3.1\Case.dll
+C:\Users\Usuario\source\repos\Case\bin\Debug\netcoreapp3.1\Case.pdb
+C:\Users\Usuario\source\repos\Case\obj\Debug\netcoreapp3.1\Case.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\Case\obj\Debug\netcoreapp3.1\Case.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\Case\obj\Debug\netcoreapp3.1\Case.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\Case\obj\Debug\netcoreapp3.1\Case.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Case\obj\Debug\netcoreapp3.1\Case.dll
+C:\Users\Usuario\source\repos\Case\obj\Debug\netcoreapp3.1\Case.pdb
+C:\Users\Usuario\source\repos\Case\obj\Debug\netcoreapp3.1\Case.genruntimeconfig.cache
