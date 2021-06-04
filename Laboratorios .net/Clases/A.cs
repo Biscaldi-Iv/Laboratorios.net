@@ -8,16 +8,10 @@ namespace Clases
 
         public String NombreInstancia
         {
-            get
-            {
-                return _nombreInstancia;
-            }
-            set
-            {
-                _nombreInstancia = value;
-            }
+            get{ return this._nombreInstancia; }
+            set { this._nombreInstancia = value; }
         }
-
+        #region Constructores
         public A()
         {
             this.NombreInstancia = "Instancia sin nombre";
@@ -27,7 +21,8 @@ namespace Clases
         {
             this.NombreInstancia = nombre;
         }
-
+        #endregion
+        #region Metodos
         public void MostrarNombre()
         {
             Console.WriteLine(this.NombreInstancia);
@@ -47,5 +42,6 @@ namespace Clases
         {
             Console.WriteLine("\nInvocaste el metodo M3\n");
         }
+        #endregion
     }
 }
