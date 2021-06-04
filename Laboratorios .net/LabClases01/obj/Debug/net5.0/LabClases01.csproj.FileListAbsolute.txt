@@ -14,3 +14,6 @@ C:\Users\Usuario\source\repos\Laboratorios.net\Laboratorios .net\LabClases01\obj
 C:\Users\Usuario\source\repos\Laboratorios.net\Laboratorios .net\LabClases01\obj\Debug\net5.0\ref\LabClases01.dll
 C:\Users\Usuario\source\repos\Laboratorios.net\Laboratorios .net\LabClases01\obj\Debug\net5.0\LabClases01.pdb
 C:\Users\Usuario\source\repos\Laboratorios.net\Laboratorios .net\LabClases01\obj\Debug\net5.0\LabClases01.genruntimeconfig.cache
+C:\Users\Usuario\source\repos\Laboratorios.net\Laboratorios .net\LabClases01\bin\Debug\net5.0\Clases.dll
+C:\Users\Usuario\source\repos\Laboratorios.net\Laboratorios .net\LabClases01\bin\Debug\net5.0\Clases.pdb
+C:\Users\Usuario\source\repos\Laboratorios.net\Laboratorios .net\LabClases01\obj\Debug\net5.0\LabClases01.csproj.CopyComplete

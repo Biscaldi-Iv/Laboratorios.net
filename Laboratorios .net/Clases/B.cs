@@ -6,9 +6,9 @@ using System.Threading.Tasks;
 
 namespace Clases
 {
-    class B : A
+    public class B : A
     {
-        public B() : base("Metodo de la clase B") 
+        public B() : base("Instancia de la clase B") 
         {
             //
         }
